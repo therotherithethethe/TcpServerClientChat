@@ -1,0 +1,14 @@
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\bin\Debug\net8.0\ServerSideChatExample.exe
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\bin\Debug\net8.0\ServerSideChatExample.deps.json
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\bin\Debug\net8.0\ServerSideChatExample.runtimeconfig.json
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\bin\Debug\net8.0\ServerSideChatExample.dll
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\bin\Debug\net8.0\ServerSideChatExample.pdb
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.AssemblyInfoInputs.cache
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.AssemblyInfo.cs
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.csproj.CoreCompileInputs.cache
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.dll
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\refint\ServerSideChatExample.dll
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.pdb
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ServerSideChatExample.genruntimeconfig.cache
+C:\Users\zhenya\RiderProjects\ServerSocketChatExample\ServerSideChatExample\obj\Debug\net8.0\ref\ServerSideChatExample.dll

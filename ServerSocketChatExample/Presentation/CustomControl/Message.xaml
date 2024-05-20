@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="ServerSocketChatExample.Presentation.CustomControl.Message"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:ServerSocketChatExample.Presentation.CustomControl"
+             mc:Ignorable="d">
+    <Grid>
+        <Border CornerRadius="20" 
+                BorderBrush="#FF30547C" 
+                Background="#30547c"
+                Margin="0, 10, 10, 0"
+                HorizontalAlignment="Right">
+            <WrapPanel>
+                <TextBlock x:Name="TextBlock"
+                           Text="{Binding Text, RelativeSource={RelativeSource AncestorType=UserControl}}"
+                           Foreground="White"
+                           Background="Transparent" 
+                           FontSize="20"
+                           Margin="10"/>
+            </WrapPanel>
+        </Border>
+    </Grid>
+</UserControl>

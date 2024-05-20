@@ -1,0 +1,16 @@
+﻿<Window x:Class="ServerSocketChatExample.Presentation.Views.WindowTutorial"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:ServerSocketChatExample.Presentation.Views"
+        mc:Ignorable="d"
+        Title="WindowTutorial" Height="450" Width="800">
+    <Grid>
+        <Border Width="100" Height="100" CornerRadius="20" Background="Blue">
+            <Button Background="Transparent" BorderBrush="Transparent" IsDefault="True">SEND
+            </Button>
+        </Border>
+
+    </Grid>
+</Window>

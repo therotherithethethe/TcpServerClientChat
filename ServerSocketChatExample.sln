@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSocketChatExample", "ServerSocketChatExample\ServerSocketChatExample.csproj", "{B61FB9A4-AC9C-467D-9DB6-974DF1011BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSideChatExample", "ServerSideChatExample\ServerSideChatExample.csproj", "{6CD01E18-1725-4BA6-87F6-89C99A6C2A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61FB9A4-AC9C-467D-9DB6-974DF1011BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61FB9A4-AC9C-467D-9DB6-974DF1011BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61FB9A4-AC9C-467D-9DB6-974DF1011BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61FB9A4-AC9C-467D-9DB6-974DF1011BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD01E18-1725-4BA6-87F6-89C99A6C2A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD01E18-1725-4BA6-87F6-89C99A6C2A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD01E18-1725-4BA6-87F6-89C99A6C2A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD01E18-1725-4BA6-87F6-89C99A6C2A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
